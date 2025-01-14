@@ -1,0 +1,30 @@
+  460  touch readme.md
+  461  git status
+  462  git add "readme.md"
+  463  git status
+  464  git commit -m "add readme.md"
+  465  git log
+  466  vim .gitignore
+  467  ls -la
+  468  explorer.exe
+  469  ls -la
+  470  git status
+  471  git add .
+  472  git commit -m "update .gitignore"
+  473  git log
+  474  git push
+  475  git push -u origit feature
+  476  git push -u origin feature
+  477  git commit --amend -m "update .gitignore amend"
+  478  git status
+  479  git branch
+  480  git log
+  481  git checkout main
+  482  git merge feature
+  483  ls -la
+  484  git log
+  485  git push
+  486  history
+  487  history | tail -20
+  488  history | tail -30
+  489  history | tail -30 > history.txt
